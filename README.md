@@ -1,5 +1,10 @@
-# Atividades da disciplina de POO (Programação Orientada a Objetos) do professor Roger
+# Atividades da disciplina de POO (Programação Orientada a Objetos)
 
 # Dupla
 - Kelwin Jhackson Gonçalves de Moura (dono deste repositório)
 - [Arthur de Araujo Custódio](https://github.com/ArthurDevA)
+
+# Professor
+- Roger
+# Turma
+- Informática P3 2023
