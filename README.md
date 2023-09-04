@@ -5,6 +5,8 @@
 - [Arthur de Araujo Custódio](https://github.com/ArthurDevA)
 
 # Professor
-- Roger
+Roger
 # Turma
-- Informática P3 2023
+Informática P3 2023
+# Linguagem
+Java
