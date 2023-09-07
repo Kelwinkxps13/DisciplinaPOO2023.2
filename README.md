@@ -5,7 +5,7 @@
 - [Arthur de Araujo Custódio](https://github.com/ArthurDevA)
 
 # Professor
-Roger
+Roger Moura Sarmento
 # Turma
 Informática P3 2023
 # Linguagem
