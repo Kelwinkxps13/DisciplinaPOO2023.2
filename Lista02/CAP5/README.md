@@ -1,2 +1,1 @@
-# Lista 2 de exercicios
-capitulo 5
+# Lista 1 de atividades Java do professor Roger
