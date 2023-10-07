@@ -224,7 +224,6 @@ Faça um programa que receba o preço atual e a venda média mensal do produto, 
   ||PESO|PESO| PESO|
   | :-: | :-: | :-: | :-: |
   |ALTURA|ATÉ 60|ENTRE 60 E 90 (INCLUSIVE)| ACIMA DE 90|
-  | :-: | :-: | :-: | :-: |
   |Menores que 1,20|A|D|G|
   |De 1,20 a 1,70|B|E|H|
   |Maiores que 1,70|C|F|I|
@@ -397,22 +396,52 @@ Calcule e mostre:
 
 [24.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q24R/src/br/edu/principal/Principal.java) Faça um programa que receba o preço, o tipo (A — alimentação; L — limpeza; e V — vestuário) e a refrigeração (S — produto que necessita de refrigeração; e N — produto que não necessita de refrigeração) de um produto. Suponha que haverá apenas a digitação de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre:
 - O valor adicional, de acordo com a tabela a seguir:
-  - Tipo A e refrigeração S: R$ 20,00
-  - Tipo L e refrigeração N: R$ 15,00
-  - Tipo V e refrigeração S: R$ 30,00
-  - Nos demais casos: R$ 10,00
+
+<div align="center">
+
+|REFRIGERAÇÃO|TIPO|PREÇO|VALOR ADICIONAL|
+| :-: | :-: | :-: | :-: |
+|N|A|< R$ 15,00|R$ 2,00|
+|N|A|>= R$ 15,00|R$ 5,00|
+|N|L|< R$ 10,00|R$ 1,50|
+|N|L|>= R$ 10,00|R$ 2,50|
+|N|V|< R$ 30,00|R$ 3,00|
+|N|V|>= R$ 30,00|R$ 2,50|
+|S|A||R$ 8,00|
+|S|L||R$ 0,00|
+|S|V||R$ 0,00|
+
+  
+</div>
+
 - O valor do imposto, de acordo com a regra a seguir:
-  - Produtos que necessitam de refrigeração: 8% sobre o preço total
-  - Produtos que não necessitam de refrigeração: 5% sobre o preço total
+
+<div align="center">
+
+|PREÇO|PERCENTUAL SOBRE O PREÇO|
+| :-: | :-: |
+|< R$ 25,00|5%|
+|>= R$ 25,00|8%|
+  
+</div>
+  
 - O preço de custo, ou seja, preço mais imposto.
 - O desconto, de acordo com a regra a seguir:
   - O produto que não preencher nenhum dos requisitos a seguir terá desconto de 3%, caso contrário, 0 (zero).
-  - Tipo A, B, C e refrigeração S
+  - Tipo A
+  - refrigeração S
 - O novo preço, ou seja, preço de custo mais adicional menos desconto.
 - A classificação, de acordo com a regra a seguir:
-  - Até R$ 50,00: Barato
-  - Acima de R$ 50,00 até R$ 120,00: Normal
-  - Acima de R$ 120,00: Caro
+
+<div align="center">
+
+|NOVO PREÇO|CLASSIFICAÇÃO|
+| :-: | :-: |
+|< = R$ 50,00|Barato|
+|Entre R$ 50,00 e R$ 100,00|Normal|
+|>= R$ 100,00|Caro|
+  
+</div>
 
 [25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q25R/src/br/edu/principal/Principal.java) Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360º ou menores que −360º, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário).
 
