@@ -6,6 +6,8 @@
   
 </div>
 
+<br>
+
 [1.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q01R/src/br/edu/principal/Principal.java) A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir: <br>
 
 <div align="center">
@@ -35,6 +37,8 @@ a tabela:
   
 </div>
 
+<br>
+
 [2.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q02R/src/br/edu/principal/Principal.java) Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem constante na tabela a seguir. Aos alunos que ficaram para exame, calcule e mostre a nota que deverão tirar para serem aprovados, considerando que a média exigida é 6,0.
 
 <div align="center">
@@ -47,13 +51,23 @@ a tabela:
   
 </div>
 
+<br>
+
 [3.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q03R/src/br/edu/principal/Principal.java) Faça um programa que receba dois números e mostre o maior.
+
+<br>
 
 [4.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q04R/src/br/edu/principal/Principal.java) Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário digitará três números diferentes.
 
+<br>
+
 [5.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q05R/src/br/edu/principal/Principal.java) Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha que o usuário digitará quatro números diferentes.
 
+<br>
+
 [6.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q06R/src/br/edu/principal/Principal.java) Faça um programa que receba um número inteiro e verifique se é par ou ímpar.
+
+<br>
 
 [7.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q07R/src/br/edu/principal/Principal.java) Faça um programa que receba quatro valores: I, A, B e C. Desses valores, I é inteiro e positivo, A, B e C são reais. Escreva os números A, B e C obedecendo à tabela a seguir. <br>
 Suponha que o valor digitado para I seja sempre um valor válido, ou seja, 1, 2 ou 3, e que os números digitados sejam diferentes um do outro.
@@ -74,11 +88,19 @@ Menu de opções: <br>
 2. Raiz quadrada de um número. <br>
 Digite a opção desejada:
 
+<br>
+
 [9.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q09R/src/br/edu/principal/Principal.java) Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – mês por extenso e hora:minuto.
+
+<br>
 
 [10.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q10R/src/br/edu/principal/Principal.java) Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o segundo, o mês e o terceiro, o ano.
 
+<br>
+
 [11.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q11R/src/br/edu/principal/Principal.java) Faça um programa que receba a hora do início de um jogo e a hora do término (cada hora é composta por duas variáveis inteiras: hora e minuto). Calcule e mostre a duração do jogo (horas e minutos), sabendo que o tempo máximo de duração do jogo é de 24 horas e que ele pode começar em um dia e terminar no dia seguinte.
+
+<br>
 
 [12.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q12R/src/br/edu/principal/Principal.java) Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir.
 
@@ -93,6 +115,8 @@ Digite a opção desejada:
   |5|Diretor|Não tem aumento|
   
 </div>
+
+<br>
 
 [13.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q13R/src/br/edu/principal/Principal.java) Faça um programa que apresente o menu a seguir, permita ao usuário escolher a opção desejada, receba os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de opção inválida e não se preocupe com restrições, como salário negativo.<br>
 Menu de opções:<br>
@@ -140,7 +164,7 @@ Na opção 3: receber o salário de um funcionário e mostrar sua classificaçã
   
 </div>
 
-
+<br>
 
 [14.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q14R/src/br/edu/principal/Principal.java) Faça um programa que receba o salário inicial de um funcionário, calcule e mostre o novo salário, acrescido de bonificação e de auxílio escola.
 
@@ -158,6 +182,8 @@ Na opção 3: receber o salário de um funcionário e mostrar sua classificaçã
 |Acima de R$ 600,00|R$ 100,00|
 
 </div>
+
+<br>
 
 [15.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q15R/src/br/edu/principal/Principal.java) Faça um programa que receba o valor do salário mínimo, o número de horas trabalhadas, o número de dependentes do funcionário e a quantidade de horas extras trabalhadas. Calcule e mostre o salário a receber do funcionário de acordo com as regras a seguir: <br>
   <br>
@@ -193,7 +219,7 @@ Na opção 3: receber o salário de um funcionário e mostrar sua classificaçã
 </div>
 
 
-
+<br>
 
 [16.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q16R/src/br/edu/principal/Principal.java) Um supermercado deseja reajustar os preços de seus produtos usando o seguinte critério: o produto poderá ter seu preço aumentado ou diminuído. Para o preço ser alterado, o produto deve preencher pelo menos um dos requisitos a seguir: <br>
 
@@ -209,13 +235,21 @@ Na opção 3: receber o salário de um funcionário e mostrar sua classificaçã
 
 Faça um programa que receba o preço atual e a venda média mensal do produto, calcule e mostre o novo preço.
 
+<br>
+
 [17.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q17R/src/br/edu/principal/Principal.java) Faça um programa para resolver equações do 2o grau.
+
+
+<br>
 
 [18.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q18R/src/br/edu/principal/Principal.java) Dados três valores X, Y e Z, verifique se eles podem ser os comprimentos dos lados de um triângulo e, se forem, verifique se é um triângulo equilátero, isósceles ou escaleno. Se eles não formarem um triângulo, escreva uma mensagem. Considere que: <br>
 - o comprimento de cada lado de um triângulo é menor que a soma dos outros dois lados; <br>
 - chama-se equilátero o triângulo que tem três lados iguais; <br>
 - denomina-se isósceles o triângulo que tem o comprimento de dois lados iguais; <br>
 - recebe o nome de escaleno o triângulo que tem os três lados diferentes.
+
+
+<br>
 
 [19.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q19R/src/br/edu/principal/Principal.java) Faça um programa que receba a altura e o peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostre a classificação dessa pessoa.
 
@@ -231,6 +265,7 @@ Faça um programa que receba o preço atual e a venda média mensal do produto, 
 </div>
 
 
+<br>
 
 [20.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q20R/src/br/edu/principal/Principal.java) Faça um programa que receba:
 - O código de um produto comprado, supondo que a digitação do código do produto seja sempre válida, isto é, um número inteiro entre 1 e 10.
@@ -266,6 +301,8 @@ Calcule e mostre:
 - Produtos procedentes do país 3 pagam 20% de imposto.
 - O valor total, preço total do produto mais imposto.
 
+<br>
+
 [21.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q21R/src/br/edu/principal/Principal.java) Faça um programa que receba:
 - o código do estado de origem da carga de um caminhão, supondo que a digitação do código do estado seja sempre válida, isto é, um número inteiro entre 1 e 5.
 - o peso da carga do caminhão em toneladas.
@@ -299,6 +336,8 @@ Calcule e mostre:
 - Os estados 1, 2 e 4 pagam 35% de imposto.
 - Os estados 3 e 5 pagam 28% de imposto.
 - O valor total transportado pelo caminhão, preço da carga mais imposto.
+
+<br>
 
 [22.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q22R/src/br/edu/principal/Principal.java) Faça um programa que receba o salário base e o tempo de serviço de um funcionário. Calcule e mostre:
 - O imposto, conforme a tabela a seguir:
@@ -344,6 +383,7 @@ Calcule e mostre:
   
 </div>
 
+<br>
 
 [23.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q23R/src/br/edu/principal/Principal.java) Faça um programa que receba o valor do salário mínimo, o turno de trabalho (M — matutino; V — vespertino; ou N — noturno), a categoria (O — operário; G — gerente) e o número de horas trabalhadas no mês de um funcionário. Suponha a digitação apenas de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre:
 - O coeficiente do salário, de acordo com a tabela a seguir:
@@ -394,6 +434,8 @@ Calcule e mostre:
 
 </div>
 
+<br>
+
 [24.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q24R/src/br/edu/principal/Principal.java) Faça um programa que receba o preço, o tipo (A — alimentação; L — limpeza; e V — vestuário) e a refrigeração (S — produto que necessita de refrigeração; e N — produto que não necessita de refrigeração) de um produto. Suponha que haverá apenas a digitação de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre:
 - O valor adicional, de acordo com a tabela a seguir:
 
@@ -443,5 +485,16 @@ Calcule e mostre:
   
 </div>
 
+
+<br>
+
 [25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q25R/src/br/edu/principal/Principal.java) Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360º ou menores que −360º, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário).
 
+<br>
+
+
+<div align="center">
+
+  ### Questões Propostas
+  
+</div>
