@@ -2,8 +2,13 @@
 <h2 align="center">Capítulo 3: Estrutura Sequencial </h2>
 <hr>
 
+<div align="center">
+  
+  ### Questões Resolvidas
+  
+</div>
+<br>
 
-### Questões Resolvidas
 
 [1.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q01R/src/br/edu/principal/Principal.java) Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 
@@ -81,4 +86,10 @@ c) o arredondamento desse número.
 
 [25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q25R/src/br/edu/principal/Principal.java) Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse programa deverá calcular e mostrar a quantidade de convites que devem ser vendidos para que, pelo menos, o custo do espetáculo seja alcançado.
 
-### Questões Propostas
+<div align="center">
+  
+  ### Questões Propostas
+  
+</div>
+
+<br>
