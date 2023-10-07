@@ -1,7 +1,9 @@
 <h1 align="center">Lista 01</h1>
 <h2 align="center">Capítulo 3: Estrutura Sequencial </h2>
 <hr>
-<h3>Questões Resolvidas:</h3>
+
+
+### Questões Resolvidas
 
 [1.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q01R/src/br/edu/principal/Principal.java) Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 
@@ -78,3 +80,5 @@ c) o arredondamento desse número.
 [24.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q24R/src/br/edu/principal/Principal.java) Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. Lembre-se de que: <br>OBS1: para quatro e meia, deve-se digitar 4.30; <br>OBS2: os minutos vão de 0 a 59.
 
 [25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q25R/src/br/edu/principal/Principal.java) Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse programa deverá calcular e mostrar a quantidade de convites que devem ser vendidos para que, pelo menos, o custo do espetáculo seja alcançado.
+
+### Questões Propostas
