@@ -23,7 +23,7 @@
 
 [13.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista03/CAP07/Q13R/src/br/edu/principal/Principal.java) Faça um programa que preencha: <br>
 - um vetor com os nomes de cinco produtos; <br>
-- uma matriz 5  4 com os preços dos cinco produtos em quatro lojas diferentes; <br>
+- uma matriz 5 x 4 com os preços dos cinco produtos em quatro lojas diferentes; <br>
 - outro vetor com o custo do transporte dos cinco produtos. <br>
 O programa deverá preencher uma segunda matriz 5  4 com os valores dos impostos de cada produto de acordo com a tabela a seguir. <br>
 
