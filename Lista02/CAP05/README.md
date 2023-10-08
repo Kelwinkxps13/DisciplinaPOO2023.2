@@ -1,10 +1,14 @@
 <h2 align="center">Capítulo 5: Estrutura de Repetição </h2>
 
+<hr>
+
 <div align="center">
 
-  ## Questões Resolvidas
+  ### Questões Resolvidas
   
 </div>
+
+<hr>
 
 <br>
 
@@ -372,12 +376,15 @@ O valor do seguro, usando a regra a seguir. Os produtos que vêm do México e os
 
 <br><br><br>
 
+<hr>
 
 <div align="center">
 
-  ## Questões Propostas
+  ### Questões Propostas
   
 </div>
+
+<hr>
 
 <br><br>
 
