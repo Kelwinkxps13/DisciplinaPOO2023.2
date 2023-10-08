@@ -407,6 +407,7 @@ Os códigos utilizados são: <br>
 <div align="center">
 
 |1, 2, 3, 4|Votos para os respectivos candidatos|
+| :-: | :-: |
 |5|Voto nulo|
 |6|Voto em branco|
   
