@@ -381,22 +381,50 @@ O valor do seguro, usando a regra a seguir. Os produtos que vêm do México e os
 
 <br><br>
 
-[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q25R/src/br/edu/principal/Principal.java)
+[5.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q05P/src/br/edu/principal/Principal.java) Faça um programa que mostre as tabuadas dos números de 1 a 10.
 
 <br>
 
-[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q25R/src/br/edu/principal/Principal.java) 
+[14.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q14P/src/br/edu/principal/Principal.java) Cada espectador de um cinema respondeu a um questionário no qual constava sua idade e sua opinião em relação ao filme: ótimo — 3; bom — 2; regular — 1. Faça um programa que receba a idade e a opinião de quinze espectadores, calcule e mostre: <br>
+
+- a média das idades das pessoas que responderam ótimo; <br>
+- a quantidade de pessoas que responderam regular; <br>
+- a percentagem de pessoas que responderam bom, entre todos os espectadores analisados.
 
 <br>
 
-[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q25R/src/br/edu/principal/Principal.java) 
+[15.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q15P/src/br/edu/principal/Principal.java) Uma empresa fez uma pesquisa de mercado para saber se as pessoas gostaram ou não de um novo produto lançado. Para isso, forneceu o sexo do entrevistado e sua resposta (S — sim; ou N — não). Sabe-se que foram entrevistadas dez pessoas. Faça um programa que calcule e mostre: <br>
+- o número de pessoas que responderam sim; <br>
+- o número de pessoas que responderam não; <br>
+- o número de mulheres que responderam sim; <br>
+- a percentagem de homens que responderam não, entre todos os homens analisados.
 
 <br>
 
-[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q25R/src/br/edu/principal/Principal.java) 
+[21.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q21P/src/br/edu/principal/Principal.java) Em uma eleição presidencial existem quatro candidatos. Os votos são informados por meio de código. <br>
+Os códigos utilizados são: <br>
+
+<div align="center">
+
+|1, 2, 3, 4|Votos para os respectivos candidatos|
+|5|Voto nulo|
+|6|Voto em branco|
+  
+</div>
+
+Faça um programa que calcule e mostre: <br>
+- o total de votos para cada candidato; <br>
+- o total de votos nulos; <br>
+- o total de votos em branco; <br>
+- a porcentagem de votos nulos sobre o total de votos; <br>
+- a porcentagem de votos em branco sobre o total de votos. <br>
+Para finalizar o conjunto de votos, tem-se o valor zero e, para códigos inválidos, o programa deverá mostrar uma mensagem.
 
 <br>
 
-[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q25R/src/br/edu/principal/Principal.java) 
+[24.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q24P/src/br/edu/principal/Principal.java) Faça um programa que receba um conjunto de valores inteiros e positivos, calcule e mostre o maior e o menor valor do conjunto. Considere que: <br>
+- para encerrar a entrada de dados, deve ser digitado o valor zero; <br>
+- para valores negativos, deve ser enviada uma mensagem; <br>
+- os valores negativos ou iguais a zero não entrarão nos cálculos. <br>
 
 <br>
