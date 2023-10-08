@@ -1,10 +1,14 @@
 <h2 align="center">Capítulo 4: Estrutura Condicional </h2>
 
+<hr>
+
 <div align="center">
 
   ### Questões Resolvidas
   
 </div>
+
+<hr>
 
 <br>
 
@@ -492,11 +496,15 @@ Calcule e mostre:
 
 <br><br><br>
 
+<hr>
+
 <div align="center">
 
   ### Questões Propostas
   
 </div>
+
+<hr>
 
 <br><br>
 
