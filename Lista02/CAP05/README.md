@@ -370,7 +370,7 @@ O valor do seguro, usando a regra a seguir. Os produtos que vêm do México e os
 - O preço final, ou seja, preço unitário mais imposto mais valor do transporte mais valor do seguro.
 - O total dos impostos.
 
-<br>
+<br><br><br>
 
 
 <div align="center">
@@ -378,3 +378,25 @@ O valor do seguro, usando a regra a seguir. Os produtos que vêm do México e os
   ### Questões Propostas
   
 </div>
+
+<br><br>
+
+[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q25R/src/br/edu/principal/Principal.java)
+
+<br>
+
+[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q25R/src/br/edu/principal/Principal.java) 
+
+<br>
+
+[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q25R/src/br/edu/principal/Principal.java) 
+
+<br>
+
+[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q25R/src/br/edu/principal/Principal.java) 
+
+<br>
+
+[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q25R/src/br/edu/principal/Principal.java) 
+
+<br>
