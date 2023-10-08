@@ -1,12 +1,17 @@
 <h1 align="center">Lista 01</h1>
 <h2 align="center">Capítulo 3: Estrutura Sequencial </h2>
+
+<br>
+
 <hr>
 
 <div align="center">
   
-  ## Questões Resolvidas
+  ### Questões Resolvidas
   
 </div>
+
+<hr>
 
 <br>
 
@@ -136,11 +141,15 @@ c) o arredondamento desse número.
 
 <br><br><br>
 
+<hr>
+
 <div align="center">
   
-  ## Questões Propostas
+  ### Questões Propostas
   
 </div>
+
+<hr>
 
 <br><br>
 
