@@ -64,7 +64,7 @@ Veja a seguir um exemplo do que seu program deverá fazer. <br>
 <br>
 
 [22.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista03/CAP07/Q22R/src/br/edu/principal/Principal.java) Faça um programa que receba o estoque atual de três produtos, armazenados em quatro armazéns, e
-coloque esses dados em uma matriz 5  3. Considerando que a última linha dessa matriz contenha o
+coloque esses dados em uma matriz 5 x 3. Considerando que a última linha dessa matriz contenha o
 custo de cada produto, o programa deverá calcular e mostrar: <br>
 - a quantidade de itens quadrados em cada armazém; <br>
 - qual armazém possui maior estoque do produto 2; <br>
