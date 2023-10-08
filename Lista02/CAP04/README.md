@@ -490,11 +490,85 @@ Calcule e mostre:
 
 [25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q25R/src/br/edu/principal/Principal.java) Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360º ou menores que −360º, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário).
 
-<br>
-
+<br><br><br>
 
 <div align="center">
 
   ### Questões Propostas
   
 </div>
+
+<br><br>
+
+[3.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q03P/src/br/edu/principal/Principal.java) Faça um programa que receba a idade de oito pessoas, calcule e mostre: <br>
+a) a quantidade de pessoas em cada faixa etária; <br>
+b) a porcentagem de pessoas na primeira faixa etária com relação ao total de pessoas. <br>
+c) a porcentagem de pessoas na última faixa etária com relação ao total de pessoas
+
+<div align="center">
+
+|FAIXA ETÁRIA|IDADE|
+| :-: | :-: |
+|1a|Até 15 anos|
+|2a|De 16 a 30 anos|
+|3a|De 31 a 45 anos|
+|4a|De 46 a 60 anos|
+|5a|Acima de 60 anos|
+  
+</div>
+
+<br>
+
+[9.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q09P/src/br/edu/principal/Principal.java) Faça um programa que receba dez idades, pesos e alturas, calcule e mostre: <br>
+- a média das idades das dez pessoas; <br>
+- a quantidade de pessoas com peso superior a 90 kg e altura inferior a 1,50 metro; <br>
+- a porcentagem de pessoas com idade entre 10 e 30 anos entre as pessoas que medem mais de1,90 m.
+
+<br>
+
+[20.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q20P/src/br/edu/principal/Principal.java) Faça um programa que apresente o menu de opções a seguir: <br>
+Menu de opções: <br>
+  1. Média aritmética <br>
+  2. Média ponderada <br>
+  3. Sair <br>
+  Digite a opção desejada. <br>
+- Na opção 1: receber duas notas, calcular e mostrar a média aritmética. <br>
+- Na opção 2: receber três notas e seus respectivos pesos, calcular e mostrar a média ponderada. <br>
+- Na opção 3: sair do programa. <br>
+  Verifique a possibilidade de opção inválida. Nesse caso, o programa deverá mostrar uma mensagem. <br>
+
+<br>
+
+[22.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q22P/src/br/edu/principal/Principal.java) Faça um programa que receba a idade e a altura de várias pessoas, calcule e mostre a média das alturas daquelas com mais de 50 anos. Para encerrar a entrada de dados, digite idade menor ou igual a zero.
+
+<br>
+
+[23.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q23P/src/br/edu/principal/Principal.java) Faça um programa que apresente o menu de opções a seguir, que permita ao usuário escolher a opção desejada, receba os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de opção inválida e não se preocupe com as restrições como salário inválido. <br>
+
+Menu de opções: <br>
+  1. Novo salário <br>
+  2. Férias <br>
+  3. Décimo terceiro <br>
+  4. Sair <br>
+  Digite a opção desejada. <br>
+
+- Na opção 1: receber o salário de um funcionário, calcular e mostrar o novo salário usando as regras a seguir: <br>
+
+<div  align="center">
+
+|SALÁRIOS|PERENTAGEM DE AUMENTO|
+| :-: | :-: |
+|Até R$ 210,00|15%|
+|De R$ 210,00 a R$ 600,00 (inclusive)|10%|
+|Acima de R$ 600,00|5%|
+  
+</div>
+
+<br>
+
+- Na opção 2: receber o salário de um funcionário, calcular e mostrar o valor de suas férias. Sabe-se que as férias equivalem a seu salário acrescido de um terço do salário. <br>
+- Na opção 3: receber o salário de um funcionário e o número de meses de trabalho na empresa, no máximo doze, calcular e mostrar o valor do décimo terceiro. Sabe-se que o décimo terceiro equivale a seu salário <br>
+multiplicado pelo número de meses de trabalho dividido por 12. <br>
+- Na opção 4: sair do programa.
+
+<br>
