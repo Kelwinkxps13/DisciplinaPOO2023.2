@@ -31,9 +31,9 @@
 
 <h3>Turma</h3>
 
-Informática P3 
+- Informática P3 
 
 <h3>Linguagem utiizada</h3>
 
-Java
+- Java
 
