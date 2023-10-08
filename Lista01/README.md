@@ -136,11 +136,17 @@ c) o arredondamento desse número.
 
 <br>
 
+<br>
+
+<br>
+
 <div align="center">
   
   ### Questões Propostas
   
 </div>
+
+<br>
 
 <br>
 
