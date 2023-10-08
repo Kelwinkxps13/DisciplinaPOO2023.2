@@ -48,7 +48,12 @@ S = -X2/1! +X3/2! –X4/4! +X5/3! -X6/2! +X7/! -X8/1! +X9/2! -X10/3! +X11/4! -..
 
 <div align="center">
 
-
+|CATEGORIA|TURNO|VALOR DA HORA TRABALHADA|
+| :-: | :-: | :-: |
+|G|N|18% do salário mínimo|
+|G|M ou V|15% do salário mínimo|
+|O||N|13% do salário mínimo|
+|O||M ou V|10% do salário mínimo|
   
 </div>
   
@@ -81,7 +86,11 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 
 <div align="center">
 
-
+|MÉDIA ARITMÉICA|MENSAGEM|
+| :-: | :-: |
+|Até 3|Reprovado|
+|Entre 3 e 7|Exame|
+|De 7 para cima|Aprovado|
   
 </div>
   
@@ -132,7 +141,13 @@ valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela. Os
 
 <div align="center">
 
-
+|QUANTIDADE DE PARCELAS|% DE JUROS SOBRE O VALOR INICIAL DA DÍVIDA|
+| :-: | :-: |
+|1|0|
+|3|10|
+|6|15|
+|9|20|
+|12|25|
   
 </div>
 
