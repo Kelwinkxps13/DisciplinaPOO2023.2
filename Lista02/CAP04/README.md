@@ -508,22 +508,84 @@ Calcule e mostre:
 
 <br><br>
 
-[3.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q03P/src/br/edu/principal/Principal.java) 
+[3.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q03P/src/br/edu/principal/Principal.java) Faça um programa que receba dois números e mostre o menor.
 
 <br>
 
-[9.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q09P/src/br/edu/principal/Principal.java) 
+[9.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q09P/src/br/edu/principal/Principal.java) Um banco concederá um crédito especial aos seus clientes, de acordo com o saldo médio no último ano. Faça um programa que receba o saldo médio de um cliente e calcule o valor do crédito, de acordo com tabela a seguir. Mostre o saldo médio e o valor do crédito. <br>
+
+<div align="center">
+
+|SALDO MÉDIO|PERCENTUAL|
+| :-: | :-: |
+|Acima de R$ 400,00|30% do saldo médio|
+|[R$ 400,00; R$ 300,00)|25% do saldo médio|
+|[R$ 300,00; R$ 200,00)|20% do saldo médio|
+|Até R$ 200,00|10% do saldo médio|
+  
+</div>
 
 <br>
 
-[20.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q20P/src/br/edu/principal/Principal.java) 
+[20.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q20P/src/br/edu/principal/Principal.java) Faça um programa que receba a idade de um nadador e mostre sua categoria, usando as regras a seguir. Para idade inferior a 5, deverá mostrar mensagem. <br>
+
+<div align="center">
+
+|CATEGORIA|IDADE|
+| :-: | :-: |
+|Infantil|5 a 7|
+|Juvenil|8 a 10|
+|Adolescente|11 a 15|
+|Adulto|16 a 30|
+|Sênior|Acima de 30|
+  
+</div>
 
 <br>
 
-[22.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q22P/src/br/edu/principal/Principal.java) 
+[22.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q22P/src/br/edu/principal/Principal.java) Faça um programa que receba a idade e o peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostre em qual grupo de risco essa pessoa se encaixa. <br>
+
+<div align="center">
+
+||PESO|PESO|PESO|
+| :-: | :-: | :-: | :-: |
+|IDADE|ATÉ 60|ENTRE 60 E 90(INCLUSIVE)|ACIMA DE 90|
+|Menores que 20|9|8|7|
+|De 20 a 50|6|5|4|
+|Maiores que 50|3|2|1|
+  
+</div>
 
 <br>
 
-[23.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q23P/src/br/edu/principal/Principal.java) 
+[23.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP04/Q23P/src/br/edu/principal/Principal.java) Faça um programa que receba: <br>
+- o código do produto comprado; <br>
+- a quantidade comprada do produto. <br>
+Calcule e mostre: <br>
+- o preço unitário do produto comprado, seguindo a Tabela I; <br>
+- o preço total da nota; <br>
+- o valor do desconto, seguindo a Tabela II e aplicado sobre o preço total da nota; <br>
+- o preço final da nota depois do desconto. <br>
+
+<div align="center">
+
+#### TABELA I
+|CÓDIGO|PREÇO|
+| :-: | :-: |
+|1 a 10|R$ 10,00|
+|11 a 20|R$ 15,00|
+|21 a 30|R$ 20,00|
+|31 a 40|R$ 30,00|
+
+
+#### TABELA II
+|PREÇO TOTAL DA NOTA|% DE DESCONTO|
+| :-: | :-: |
+|Até R$ 250,00|5%|
+|Entre R$ 250,00 e R$ 500,00|10%|
+|Acima de R$ 500,00|15%|
+
+
+</div>
 
 <br>
