@@ -43,11 +43,25 @@ S = -X2/1! +X3/2! –X4/4! +X5/3! -X6/2! +X7/! -X8/1! +X9/2! -X10/3! +X11/4! -..
 <br>
 
 [6.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q06R/src/br/edu/principal/Principal.java) Uma empresa possui dez funcionários com as seguintes características: código, número de horas trabalhadas no mês, turno de trabalho (M — matutino; V — vespertino; ou N — noturno), categoria (O —operário; ou G — gerente), valor da hora trabalhada. Sabendo-se que essa empresa deseja informatizar sua folha de pagamento, faça um programa que:
-- a) Leia as informações dos funcionários, exceto o valor da hora trabalhada, não permitindo que sejam informa-dos turnos e nem categorias inexistentes. Trabalhe sempre com a digitação de letras maiúsculas.
+- a) Leia as informações dos funcionários, exceto o valor da hora trabalhada, não permitindo que sejam informados turnos e nem categorias inexistentes. Trabalhe sempre com a digitação de letras maiúsculas.
 - b) Calcule o valor da hora trabalhada, conforme a tabela a seguir. Adote o valor de R$ 450,00 para o salário mínimo.
-- c) Calcule o salário inicial dos funcionários com base no valor da hora trabalhada e no número de horas traba-lhadas.
+
+<div align="center">
+
+
+  
+</div>
+  
+- c) Calcule o salário inicial dos funcionários com base no valor da hora trabalhada e no número de horas trabalhadas.
 - d) Calcule o valor do auxílio alimentação recebido pelo funcionário de acordo com seu salário inicial, conformea tabela a seguir.
-- e) Mostre o código, número de horas trabalhadas, valor da hora trabalhada, salário inicial, auxílio alimentaçãoe salário final (salário inicial + auxílio alimentação).
+
+<div align="center">
+
+
+  
+</div>
+  
+- e) Mostre o código, número de horas trabalhadas, valor da hora trabalhada, salário inicial, auxílio alimentação e salário final (salário inicial + auxílio alimentação).
 
 <br>
 
@@ -62,8 +76,15 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 <br>
 
 [9.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q09R/src/br/edu/principal/Principal.java) Faça um programa que receba duas notas de seis alunos. Calcule e mostre:
-- a média aritmética das duas notas de cada aluno; e
+- a média aritmética das duas notas de cada aluno;
 - a mensagem que está na tabela a seguir:
+
+<div align="center">
+
+
+  
+</div>
+  
 - o total de alunos aprovados;
 - o total de alunos de exame;
 - o total de alunos reprovados;
@@ -74,7 +95,7 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 [10.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q10R/src/br/edu/principal/Principal.java) Em um campeonato de futebol existem cinco times e cada um possui onze jogadores. Faça um programa que receba a idade, o peso e a altura de cada um dos jogadores, calcule e mostre:
 - a quantidade de jogadores com idade inferior a 18 anos;
 - a média das idades dos jogadores de cada time;
-- a média das alturas de todos os jogadores do campeonato; e
+- a média das alturas de todos os jogadores do campeonato;
 - a porcentagem de jogadores com mais de 80 kg entre todos os jogadores do campeonato.
 
 <br>
@@ -92,7 +113,7 @@ A classe 1 recebe salário mínimo. A classe 2 recebe salário mínimo mais 3% d
 - o total da folha de pagamento da fábrica;
 - o número total de peças fabricadas no mês;
 - a média de peças fabricadas pelos homens;
-- a média de peças fabricadas pelas mulheres; e
+- a média de peças fabricadas pelas mulheres;
 - o número do operário ou operária de maior salário.
 
 <br>
@@ -108,6 +129,13 @@ A classe 1 recebe salário mínimo. A classe 2 recebe salário mínimo mais 3% d
 
 [14.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q14R/src/br/edu/principal/Principal.java) Faça um programa que receba o valor de uma dívida e mostre uma tabela com os seguintes dados:
 valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela. Os juros e a quantidade de parcelas seguem a tabela:
+
+<div align="center">
+
+
+  
+</div>
+
 Exemplo de saída do programa:
 
 <div align="center">
@@ -194,52 +222,15 @@ Exemplo de saída do programa:
 
 <br>
 
-[21.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q21R/src/br/edu/principal/Principal.java) Faça um programa que apresente o menu de opções a seguir, permita ao usuário escolher a opção desejada, receba os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de opção inválida e não se preocupe com restrições do tipo salário inválido.
-Menu de opções:
-1. Imposto
-2. Novo salário
-3. Classificação
-4. Finalizar o programa
-Digite a opção desejada.
-Na opção 1: receber o salário de um funcionário, calcular e mostrar o valor do imposto usando as regras a seguir.
-
-<div align="center">
-
-| Faixa Salarial        | Percentual de Imposto |
-|-----------------------|-----------------------|
-| Menor que R$ 500,00  | 5%                    |
-| De R$ 500,00 a R$ 850,00 | 10%                   |
-| Acima de R$ 850,00    | 15%                   |
-  
-</div>
-
-
-
-Na opção 2: receber o salário de um funcionário, calcular e mostrar o valor do novo salário usando as regras a seguir.
-
-<div align="center">
-
-| Faixa Salarial                            | Valor do Aumento |
-|-----------------------------------------|------------------|
-| Maiores que R$ 1.500,00                 | R$ 25,00         |
-| De R$ 750,00 (inclusive) a R$ 1.500,00 (inclusive) | R$ 50,00         |
-| De R$ 450,00 (inclusive) a R$ 750,00    | R$ 75,00         |
-| Menores que R$ 450,00                   | R$ 100,00        |
-  
-</div>
-
-
-
-Na opção 3: receber o salário de um funcionário e mostrar sua classificação usando esta tabela:
-
-<div align="center">
-
-| Faixa Salarial     | Classificação   |
-|--------------------|-----------------|
-| Até R$ 700,00      | Mal remunerado  |
-| Maiores que R$ 700,00 | Bem remunerado  |
-  
-</div>
+[21.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q21R/src/br/edu/principal/Principal.java) Faça um programa que receba vários números, calcule e mostre:
+- a soma dos números digitados;
+- a quantidade de números digitados;
+- a média dos números digitados;
+- o maior número digitado;
+- o menor número digitado;
+- a média dos números pares;
+- a porcentagem dos números ímpares entre todos os números digitados.
+Finalize a entrada de dados com a digitação do número 30.000.
 
 <br>
 
@@ -253,40 +244,26 @@ Na opção 3: receber o salário de um funcionário e mostrar sua classificaçã
 
 <br>
 
-[23.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q23R/src/br/edu/principal/Principal.java) Faça um programa que receba os dados a seguir de vários produtos: preço unitário, país de origem (1 – Estados Unidos; 2 — México; e 3 — outros), meio de transporte (T — terrestre; F — fluvial; e A — aéreo), carga perigosa (S — sim; N — não), finalize a entrada de dados com um preço inválido, ou seja, menor ou igual a zero. O programa deve calcular e mostrar os itens a seguir.
-- O valor do imposto, usando a tabela a seguir
+[23.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q23R/src/br/edu/principal/Principal.java) Faça um programa que receba o valor do salário mínimo, uma lista contendo a quantidade de quilo-
+watts gasta por consumidor e o tipo de consumidor (1 — residencial; 2 — comercial; ou 3 — indus-
+trial) e que calcule e mostre:
+- o valor de cada quilowatt, sabendo que o quilowatt custa um oitavo do salário mínimo;
+- o valor a ser pago por consumidor (conta final mais acréscimo). O acréscimo encontra-se na tabela
+a seguir:
 
 <div align="center">
 
-| Preço Unitário  | Percentual de Imposto |
-|-----------------|------------------------|
-| Até R$ 100,00  | 5%                    |
-| Maior que R$ 100,00 | 10%               |
+|TIPO|% DE ACRÉSCIMO SOBRE O VALOR GASTO|
+| :-: | :-: |
+|1|5|
+|2|10|
+|3|15|
   
 </div>
 
-
-
-- O valor do transporte usando a tabela a seguir.
-
-<div align="center">
-
-| Carga Perigosa | País de Origem | Valor do Transporte |
-|-----------------|----------------|--------------------|
-|       S         |       1        |      R$ 50,00      |
-|       S         |       2        |      R$ 21,00      |
-|       S         |       3        |      R$ 24,00      |
-|       N         |       1        |      R$ 12,00      |
-|       N         |       2        |      R$ 21,00      |
-|       N         |       3        |      R$ 60,00      |
-  
-</div>
-
-
-
-O valor do seguro, usando a regra a seguir. Os produtos que vêm do México e os produtos que utilizam transporte aéreo pagam metade do valor do seu preço unitário como seguro.
-- O preço final, ou seja, preço unitário mais imposto mais valor do transporte mais valor do seguro.
-- O total dos impostos.
+- o faturamento geral da empresa;
+- a quantidade de consumidores que pagam entre R$ 500,00 e R$ 1.000,00.
+Termine a entrada de dados com quantidade de quilowats igual a zero.
 
 <br>
 
@@ -337,10 +314,9 @@ Na opção 3: receber o salário de um funcionário e mostrar sua classificaçã
   
 </div>
 
-
 <br>
 
-[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q25R/src/br/edu/principal/Principal.java) Faça um programa que receba os dados a seguir de vários produtos: preço unitário, país de origem (1 — Estados Unidos; 2 — México; e 3 — outros), meio de transporte (T — terrestre; F — fluvial; e A — aéreo), carga perigosa (S — sim; N — não), finalize a entrada de dados com um preço inválido, ou seja, menor ou igual a zero. O programa deve calcular e mostrar os itens a seguir:
+[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/blob/main/Lista02/CAP05/Q25R/src/br/edu/principal/Principal.java) Faça um programa que receba os dados a seguir de vários produtos: preço unitário, país de origem (1 – Estados Unidos; 2 — México; e 3 — outros), meio de transporte (T — terrestre; F — fluvial; e A — aéreo), carga perigosa (S — sim; N — não), finalize a entrada de dados com um preço inválido, ou seja, menor ou igual a zero. O programa deve calcular e mostrar os itens a seguir.
 - O valor do imposto, usando a tabela a seguir
 
 <div align="center">
@@ -377,10 +353,9 @@ O valor do seguro, usando a regra a seguir. Os produtos que vêm do México e os
 
 <br>
 
+
 <div align="center">
 
   ### Questões Propostas
   
 </div>
-
-
