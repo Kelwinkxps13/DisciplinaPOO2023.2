@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ### Questões Resolvidas
+  ## Questões Resolvidas
   
 </div>
 
@@ -375,7 +375,7 @@ O valor do seguro, usando a regra a seguir. Os produtos que vêm do México e os
 
 <div align="center">
 
-  ### Questões Propostas
+  ## Questões Propostas
   
 </div>
 
