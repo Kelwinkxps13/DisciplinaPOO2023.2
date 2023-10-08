@@ -1,4 +1,3 @@
-<h1 align="center">Lista 01</h1>
 <h2 align="center">Capítulo 3: Estrutura Sequencial </h2>
 
 <br>
