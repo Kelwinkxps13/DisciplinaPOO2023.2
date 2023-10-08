@@ -53,7 +53,7 @@ Quando a opção escolhida for Mostrar Mapa de Ocupação do Ônibus, deverá se
 <div align="center">
 
 |JANELA||CORREDOR|
-| :-: | :-: | :-: |
+| :- | :-: | :- |
 |1- Ocupada||1- Ocupada|
 |2- Ocupada||2- Livre|
 |3- Livre||3- Livre|
