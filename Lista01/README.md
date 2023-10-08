@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### Questões Resolvidas
+  ## Questões Resolvidas
   
 </div>
 
@@ -138,7 +138,7 @@ c) o arredondamento desse número.
 
 <div align="center">
   
-  ### Questões Propostas
+  ## Questões Propostas
   
 </div>
 
