@@ -143,3 +143,49 @@ c) o arredondamento desse número.
 </div>
 
 <br>
+
+[3.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q03P/src/br/edu/principal/Principal.java) Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar com validações.
+
+<br>
+
+[5.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q05P/src/br/edu/principal/Principal.java) Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10%.
+
+<br>
+
+[6.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q06P/src/br/edu/principal/Principal.java) Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa que receba o salário fixo do funcionário e o valor de suas vendas, calcule e mostre a comissão e seu salário final.
+
+<br>
+
+[7.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q07P/src/br/edu/principal/Principal.java) Faça um programa que receba o peso de uma pessoa, calcule e mostre: <br>
+a) o novo peso, se a pessoa engordar 15% sobre o peso digitado; <br>
+b) o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.
+
+<br>
+
+[8.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q08P/src/br/edu/principal/Principal.java) Faça um programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas.
+
+<br>
+
+[9.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q09P/src/br/edu/principal/Principal.java) Faça um programa que calcule e mostre a área de um trapézio.
+- Sabe-se que: A = ((base maior + base menor) * altura)/2
+
+<br>
+
+[11.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q11P/src/br/edu/principal/Principal.java) Faça um programa que calcule e mostre a área de um losango. Sabe-se que: A = (diagonal maior * diagonal menor)/2.
+
+<br>
+
+[12.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q12P/src/br/edu/principal/Principal.java) Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que esse funcionário ganha.
+
+<br>
+
+[19.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q19P/src/br/edu/principal/Principal.java) Sabe-se que, para iluminar de maneira correta os cômodos de uma casa, para cada m2, deve-se usar 18 W de potência. Faça um programa que receba as duas dimensões de um cômodo (em metros), calcule e mostre a sua área (em m2) e a potência de iluminação que deverá ser utilizada.
+
+<br>
+
+[25.](https://github.com/Kelwinkxps13/DisciplinaPOO2023.2/tree/main/Lista01/Q25P/src/br/edu/principal/Principal.java) Faça um programa que receba uma hora (uma variável para hora e outra para minutos), calcule e mostre: <br>
+a) a hora digitada convertida em minutos; <br>
+b) o total dos minutos, ou seja, os minutos digitados mais a conversão anterior; <br>
+c) o total dos minutos convertidos em segundos.
+
+<br>
