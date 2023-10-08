@@ -52,8 +52,8 @@ S = -X2/1! +X3/2! –X4/4! +X5/3! -X6/2! +X7/! -X8/1! +X9/2! -X10/3! +X11/4! -..
 | :-: | :-: | :-: |
 |G|N|18% do salário mínimo|
 |G|M ou V|15% do salário mínimo|
-|O||N|13% do salário mínimo|
-|O||M ou V|10% do salário mínimo|
+|O|N|13% do salário mínimo|
+|O|M ou V|10% do salário mínimo|
   
 </div>
   
@@ -62,7 +62,11 @@ S = -X2/1! +X3/2! –X4/4! +X5/3! -X6/2! +X7/! -X8/1! +X9/2! -X10/3! +X11/4! -..
 
 <div align="center">
 
-
+|SALÁRIO INICIAL|AUXÍLIO AlIMENTAÇÃO|
+| :-: | :-: |
+|Até R$ 300,00|20% do salário inicial|
+|Entre R$ 300,00 e R$ 600,00|15% do salário inicial|
+|Acima de R$ 600,00|5% do salário inicial|
   
 </div>
   
