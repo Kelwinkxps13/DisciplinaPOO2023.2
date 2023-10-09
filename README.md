@@ -10,7 +10,7 @@
 
 <h3>Dupla</h3>
 
-- Kelwin Jhackson Gonçalves de Moura (dono deste repositório) <br>
+- [Kelwin Jhackson Gonçalves de Moura](https://github.com/Kelwinkxps13) <br>
 
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1;">
